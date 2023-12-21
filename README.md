@@ -31,7 +31,7 @@ To execute the program, use:
 ```
 ./program [M] [N] [R]
 ```
-Where 'M' is the number of writer threads, 'N' is the number of reader threads, and R is the maximum number of readers that can access the shared data simultaneously.
+Where `M` is the number of writer threads, `N` is the number of reader threads, and `R` is the maximum number of readers that can access the shared data simultaneously.
 
 # Features 
 
